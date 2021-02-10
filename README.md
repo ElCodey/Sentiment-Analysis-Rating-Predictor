@@ -7,6 +7,6 @@ Project Outline:
 
 
 Project Files:
-Data: where-the-crawdads-sing-book.csv
-Project: -Review Scraper.ipynb
-         -Rating Predictor.ipynb
+- Data: where-the-crawdads-sing-book.csv
+- Project: -Review Scraper.ipynb
+           -Rating Predictor.ipynb
